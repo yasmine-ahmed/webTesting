@@ -1,0 +1,16 @@
+ <button type="submit" style="font-size: 16px ;background-color: #000000;
+          color: #fff;
+          border-radius: 6px;  "> SUBMIT </button>
+
+
+
+ <button type="submit" style=" border-top: 1px solid #96d1f8;
+        background: -moz-linear-gradient(top, #0099ff, #000000);
+        padding: 10px 30px;
+        border-radius: 31px;
+        color: #ffffff;
+        font-size: 16px;"> SUBMIT </button>
+
+
+<button type="submit" style=" height:55px; width:130px; background-image:url(images/b.png)">
+	   </button>
